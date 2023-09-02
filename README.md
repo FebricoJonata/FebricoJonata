@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Febrico Jonata</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Febrico+Jonata" alt="Typing SVG" />
+</h1>
+
 <p>I am a student at the Bina Nusantara University with a major in Computer Science pursuing an undergraduate degree. I am currently interested in the Mobile Application Development and Web Development field. My goal is to get a job in the Information Technology field after graduating. I am open to learning new things and getting involved with new projects that can help me learn or apply all that I have learned throughout my university career.</p>
 
 - 🌱 I’m currently learning **Flutter**
