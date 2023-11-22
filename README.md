@@ -6,7 +6,7 @@
 
 <p>I am a student at the Bina Nusantara University with a major in Computer Science pursuing an undergraduate degree. I am currently interested in the Mobile Application Development and Web Development field. My goal is to get a job in the Information Technology field after graduating. I am open to learning new things and getting involved with new projects that can help me learn or apply all that I have learned throughout my university career.</p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** & **Swift**
 
 - 📫 How to reach me **febrico.jonata@binus.ac.id**
 
